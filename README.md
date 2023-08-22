@@ -5,6 +5,42 @@ Yazaki, Kuchukov:
 Removed rebound at cold start (1920 rpm), aka cat-off:
 0x1314C < 00
 ;
+Lambda (rear) disable:
+F2C5 < 0
+1F2C5 < 0
+;
+F5C2 < 0
+1F5C2 < 0
+;
+F5D1 < 0
+1F5D1 < 0
+;
+F5B8 < 0
+1F5B8 < 0
+;
+C917 < 0
+;
+F751 < 0
+1F751 < 0
+;
+F754 < 0
+1F754 < 0
+;
+F74F < 0
+1F74F < 0
+;
+F19B < 0
+1F19B < 0
+;
+F274 < 0
+1F274 < 0
+;
+F277 < 0
+1F277 < 0
+;
+F272 < 0
+1F272 < 0
+;
 Rescale to 10.8ms load:
 (Low. Bnk)
 0xF8CF/F820(449) < 0A1827354352606E7D8B99A8B6C4D3E1
