@@ -2,9 +2,6 @@
 Yazaki, Kuchukov:
 0xF873 < 2059617A616B692C204B756368756B6F76
 ;
-Removed rebound at cold start (1920 rpm), aka cat-off:
-0x1314C < 00
-;
 Lambda (rear) disable:
 F2C5 < 0
 1F2C5 < 0
