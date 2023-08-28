@@ -3,11 +3,13 @@ Yazaki, Kuchukov:
 0xF873/F7C4(449) < 2059617A616B692C204B756368756B6F76
 ;
 Fan tweek:
-0xC8FF(449) < A8 (88 celsius, 1 speed)
+0xC8FF(449) < AA (90 celsius, 1 speed)
 0xC903(449) < B3 (99 celsius, 2 speed)
 ;
 0xC900(449) < 39 (57 km/h, 1 speed)
 0xC901(449) < 63 (99 km/h, 2 speed)
+;
+0xC905(449) < A8 (88 ?)
 ;
 Lambda (rear) disable:
 0xF2C5(449) < 0
