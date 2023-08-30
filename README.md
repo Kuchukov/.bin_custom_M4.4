@@ -10,13 +10,13 @@ Speed:
 0xC925(612)/C934(449) < FF (255 km/h)
 ;
 Fan:
-0xC8FF(449) < AA (90 celsius, 1 speed)
-0xC903(449) < B3 (99 celsius, 2 speed)
+0xC8F0(612)/C8FF(449) < AA (90 celsius, 1 speed)
+0xC8F4(612)/C903(449) < B3 (99 celsius, 2 speed)
 ;
-0xC900(449) < 39 (57 km/h, 1 speed)
-0xC901(449) < 63 (99 km/h, 2 speed)
+0xC8F1(612)/C900(449) < 39 (57 km/h, 1 speed)
+0xC8F2(612)/C901(449) < 63 (99 km/h, 2 speed)
 ;
-0xC905(449) < A8 (88 celsius, ?)
+0xC8F6(612)/C905(449) < A8 (88 celsius, ?)
 ;
 Lambda (rear) disable:
 0xF374(612)/F2C5(449) < 0
