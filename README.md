@@ -2,6 +2,9 @@
 Yazaki, Kuchukov:
 0xF873/F7C4(449) < 2059617A616B692C204B756368756B6F76
 ;
+Hardware (AT/MT):
+0xC8ED(612)/C8FC(449) < 01 (MT), 00 (AT)
+;
 Speed:
 0xC933(449) < FA (250 km/h)
 0xC934(449) < FF (255 km/h)
