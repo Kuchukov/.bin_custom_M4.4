@@ -73,7 +73,7 @@ Load threshold lambda control:
 Overload TL (ms):
 0x142C7(6)/142E8(449) < C6C6C6D0E1E1E7E7
 ;
-WOT enrichment
+Full load correction (WOT enrichment):
 0x13E47(6)/13E48(449) < 80808080868D919398A0A3A7A7B0B0B0
 ;
 Target Load Setpoint:
