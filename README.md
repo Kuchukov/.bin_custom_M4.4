@@ -55,6 +55,9 @@ Lambda (rear) disable:
 0xF321(612)/F272(449) < 0 (FF (612)?)
 0x1F321(612)/1F272(449) < 0 (FF (612)?)
 ;
+Max. TL (11.09 ms):
+0xC937(6)/0xC946(449) < E7 (11.088 ms)
+;
 Rescale to 10.8ms load:
 (Low. Bnk)
 0xF8CF/F820(449) < 0A1827354352606E7D8B99A8B6C4D3E1
