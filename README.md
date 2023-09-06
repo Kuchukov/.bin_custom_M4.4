@@ -10,9 +10,9 @@ AT (fuel cut time, switch):
 0xF26F(6)/F1C0(4) (Low. Bank) < 7E (R 1499.904 ms)/2A (T5 499.97 ms)
 0x1F26F(6)/1F1C0(4) (Upp. Bank) < 7E (R 1499.904 ms)/2A (T5 499.97 ms)
 
-0x13368(6)/13369(4) < 1C355679 (R)/1E395679 (T5)
+0x13368(6)/13369(4) < 1C35567999 (R)/1E39567999 (T5)
 ;
-Speed:
+Speed limit:
 0xC924(6)/C933(4) < FA (250 km/h)
 0xC925(6)/C934(4) < FF (255 km/h)
 ;
