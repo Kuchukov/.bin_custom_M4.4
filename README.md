@@ -9,7 +9,7 @@ Hardware (AT/MT):
 AT (fuel cut time, switch):
 0xF26F(6)/F1C0(4) (Low. Bank) < 7E (R 1499.904 ms)/2A (T5 499.97 ms)
 0x1F26F(6)/1F1C0(4) (Upp. Bank) < 7E (R 1499.904 ms)/2A (T5 499.97 ms)
-
+;
 0x13368(6)/13369(4) < 1C35567999 (R)/1E39567999 (T5)
 ;
 Speed limit:
