@@ -13,8 +13,8 @@ AT (fuel cut time, switch):
 0x13368(6)/13369(4) < 1C35567999 (R)/1E39567999 (T5)
 ;
 Gear switch fuel-cut off:
-0xF27D/F1CE(4) < FF
-0x1F27D/1F1CE(4) < FF
+0xF27D(6)/F1CE(4) < 00 ;FF
+0x1F27D(6)/1F1CE(4) < 00 ;FF
 ;
 Speed limit:
 0xC924(6)/C933(4) < FA (250 km/h)
