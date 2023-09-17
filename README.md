@@ -33,6 +33,19 @@ Idle 900 RPM at 110 Celsius:
 0xD544(6)/D466(4) < 6E6E6D6C6A6968666462615E5955555A
 0xD554(6)/D476(4) < 6E6E6D6C6A6968666462615E5955555A
 ;
+Tank pressure/disable:
+0xC9A1(6)/C9B2(4)(Low. Bnk) < 00
+;
+0xF398(6)/F2E9(4)(Low. Bnk) < 00
+0x1F398(6)/1F2E9(4)(Upp. Bnk) < 00
+;
+Acceleration sensor/disable:
+0xF307(6)/F258(4)(Low. Bnk) < 00
+0x1F307(6)/1F258(4)(Upp. Bnk) < 00
+;
+0xF38B(6)/F2DC(4)(Low. Bnk) < 00
+0x1F38B(6)/1F2DC(4)(Low. Bnk) < 00
+;
 Lambda (rear) disable:
 0xF374(6)/F2C5(4) < 0
 0x1F374(6)/1F2C5(4) < 0
