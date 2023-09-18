@@ -16,7 +16,7 @@ Gear switch fuel-cut off:
 0xF27D(6)/F1CE(4) < 00 ;FF
 0x1F27D(6)/1F1CE(4) < 00 ;FF
 ;
-Gear switch max. time (agressive):
+AT Gear switch max. time (agressive):
 0x1333F(6)/13340(4) < 151C2A2A2A2A2A2A
 ;
 Speed limit:
