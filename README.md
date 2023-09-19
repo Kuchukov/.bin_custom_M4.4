@@ -32,6 +32,9 @@ Fan:
 ;
 0xC8F6(612)/C905(4) < A8 (88 celsius, ?)
 ;
+Engine temp. threshold for limit load (101C):
+0xC9A4(6)/C9B5(4) < B5
+;
 Idle 900 RPM at 110 Celsius:
 0xD544(6)/D466(4) < 6E6E6D6C6A6968666462615E5955555A
 0xD554(6)/D476(4) < 6E6E6D6C6A6968666462615E5955555A
