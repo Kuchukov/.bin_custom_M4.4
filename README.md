@@ -23,6 +23,9 @@ Speed limit:
 0xC924(6)/C933(4) < FA (250 km/h)
 0xC925(6)/C934(4) < FF (255 km/h)
 ;
+Max. tracking RPM (6600):
+0x131B7(6)/131BB(4) < DC
+;
 Fan:
 0xC8F0(6)/C8FF(4) < AA (90 celsius, 1 speed)
 0xC8F4(6)/C903(4) < B3 (99 celsius, 2 speed)
