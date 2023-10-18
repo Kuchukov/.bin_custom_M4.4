@@ -181,7 +181,7 @@ TPS angle threshold for boost active, (13.3333):
 0xE8D4(6)/E7F6(4) < 2020202020202020
 ;
 TPS angle threshold for charge pressure increase, (13.3333)
-0xE9FC(6)/(4) < 2020202020202020
+0xE9FC(6)/E94E(4) < 2020202020202020
 ;
 Boost table's (0.3bar preload)
 0xE5D4(6)/E4F6(4) <
