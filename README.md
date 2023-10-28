@@ -59,11 +59,20 @@ Intake air temp. sensor/disable:
 0xF7E8(6)/F739(4)(Low. Bnk) < 00
 0x1F7E8(6)/1F739(4)(Upp. Bnk) < 00
 ;
-F79C(4)(Low. Bnk) < 00
-F0E8(4)(Low. Bnk) < 00
-F2BF(4)(Low. Bnk) < 00
-F5AA(4)(Low. Bnk) < 00
+0xF84B(6)/F79C(4)(Low. Bnk) < 00
+0x1F84B(6)/F79C(4)(Upp. Bnk) < 00
+;
+0xF196(6)/F0E8(4)(Low. Bnk) < 00
+0x1F196(6)/1F0E8(4)(Upp. Bnk) < 00
+;
+0xF36E(6)/F2BF(4)(Low. Bnk) < 00
+0x1F36E(6)/1F2BF(4)(Upp. Bnk) < 00
+;
+0xF659(6)/F5AA(4)(Low. Bnk) < 00
+0x1F659(6)/1F5AA(4)(Upp. Bnk) < 00
+;
 F557(4)(Low. Bnk) < 00
+
 F312(4)(Low. Bnk) < 00
 
 ;
