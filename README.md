@@ -53,7 +53,19 @@ Acceleration sensor/disable:
 0x1F307(6)/1F258(4)(Upp. Bnk) < 00
 ;
 0xF38B(6)/F2DC(4)(Low. Bnk) < 00
-0x1F38B(6)/1F2DC(4)(Low. Bnk) < 00
+0x1F38B(6)/1F2DC(4)(Upp. Bnk) < 00
+;
+Intake air temp. sensor/disable:
+0xF7E8(6)/F739(4)(Low. Bnk) < 00
+0x1F7E8(6)/1F739(4)(Upp. Bnk) < 00
+;
+F79C(4)(Low. Bnk) < 00
+F0E8(4)(Low. Bnk) < 00
+F2BF(4)(Low. Bnk) < 00
+F5AA(4)(Low. Bnk) < 00
+F557(4)(Low. Bnk) < 00
+F312(4)(Low. Bnk) < 00
+
 ;
 Lambda (rear) disable:
 0xF374(6)/F2C5(4) < 0
