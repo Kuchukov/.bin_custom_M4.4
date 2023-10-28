@@ -71,10 +71,11 @@ Intake air temp. sensor/disable:
 0xF659(6)/F5AA(4)(Low. Bnk) < 00
 0x1F659(6)/1F5AA(4)(Upp. Bnk) < 00
 ;
-F557(4)(Low. Bnk) < 00
-
-F312(4)(Low. Bnk) < 00
-
+0xF606(6)/F557(4)(Low. Bnk) < 00
+0x1F606(6)/1F557(4)(Upp. Bnk) < 00
+;
+0xF3C1(6)/F312(4)(Low. Bnk) < 00
+0x1F3C1(6)/1F312(4)(Upp. Bnk) < 00
 ;
 Lambda (rear) disable:
 0xF374(6)/F2C5(4) < 0
