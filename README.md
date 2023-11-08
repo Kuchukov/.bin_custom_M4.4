@@ -55,6 +55,21 @@ Acceleration sensor/disable:
 0xF38B(6)/F2DC(4)(Low. Bnk) < 00
 0x1F38B(6)/1F2DC(4)(Upp. Bnk) < 00
 ;
+Ambient pressure sensor/disable:
+0xC9B9(6)/C9CD(4)(Low. Bnk) > 00
+;
+0xF370(6)/F2C1(4)(Low. Bnk) > 00
+0x1F370(6)/1F2C1(4)(Upp. Bnk) > 00
+;
+0xF65B(6)/F5AC(4)(Low. Bnk) > 00
+0x1F65B(6)/F5AC(4)(Upp. Bnk) > 00
+;
+0xF608(6)/F559(4)(Low. Bnk) > 00
+0x1F608(6)/F559(4)(Upp. Bnk) > 00
+;
+0xF3C3(6)/F314(4)(Low. Bnk) > 00
+0x1F3C3(6)/1F314(4)(Low. Bnk) > 00
+;
 Intake air temp. sensor/disable:
 0xF7E8(6)/F739(4)(Low. Bnk) < 00
 0x1F7E8(6)/1F739(4)(Upp. Bnk) < 00
