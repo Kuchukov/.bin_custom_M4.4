@@ -58,6 +58,18 @@ Tank pressure/disable:
 0x1F398(6)/1F2E9(4)(Upp. Bnk) < 00
 ;
 Acceleration sensor/disable:
+0xF6DA(6)/F62B(4)(Low. Bnk) < 00
+0x1F6DA(6)/1F62B(4)(Upp. Bnk) < 00
+;
+0xF815(6)/F766(4)(Low. Bnk) < 00
+0x1F815(6)/1F766(4)(Upp. Bnk) < 00
+;
+0xF623(6)/F574(4)(Low. Bnk) < 00
+0x1F623(6)/1F574(4)(Upp. Bnk) < 00
+;
+0xF5D0(6)/F521(4)(Low. Bnk) < 00
+0x1F5D0(6)/(4)(Upp. Bnk) < 00
+;
 0xF307(6)/F258(4)(Low. Bnk) < 00
 0x1F307(6)/1F258(4)(Upp. Bnk) < 00
 ;
