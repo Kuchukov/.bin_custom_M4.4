@@ -45,6 +45,15 @@ Idle 900 RPM at 110 Celsius:
 Tank pressure/disable:
 0xC9A1(6)/C9B2(4)(Low. Bnk) < 00
 ;
+0x(6)/F296(4)(Low. Bnk) < 00
+0x(6)/1F296(4)(Upp. Bnk) < 00
+;
+0x(6)/F581(4)(Low. Bnk) < 00
+0x(6)/1F581(4)(Upp. Bnk) < 00
+;
+0x(6)/F52E(4)(Low. Bnk) < 00
+0x(6)/1F52E(4)(Upp. Bnk) < 00
+;
 0xF398(6)/F2E9(4)(Low. Bnk) < 00
 0x1F398(6)/1F2E9(4)(Upp. Bnk) < 00
 ;
