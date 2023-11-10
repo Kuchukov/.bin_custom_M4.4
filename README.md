@@ -187,6 +187,9 @@ Load threshold lambda control:
 Overload TL (ms):
 0x142C7(6)/142E8(4) < 9292BCBCD1D1D3D3
 ;
+Overload TL AXES-RPM ():
+0x(6)/1315C(4) < 455F7A94AFC9E4FF
+;
 Full load correction (WOT enrichment):
 0x13E47(6)/13E48(4) < 80808080868D919398A0A3A3A3A3A3A3
 ;
