@@ -27,17 +27,17 @@ Max. tracking RPM (7650):
 0x131B7(6)/131BB(4) < FF
 ;
 RPM limit:
-0xF1D2(4) (Low. Bnk) < FC (7560)
-0x1F1D2(4) (Upp. Bnk) < FC
+0xF281(6)/F1D2(4) (Low. Bnk) < FC (7560)
+0x1F281(6)/1F1D2(4) (Upp. Bnk) < FC
 ;
-0xF1D3(4) (Low. Bnk) < 03 (90)
-0x1F1D3(4) (Upp. Bnk) < 03
+0xF282(6)/F1D3(4) (Low. Bnk) < 03 (90)
+0x1F282(6)/1F1D3(4) (Upp. Bnk) < 03
 ;
-0xF1D4(4) (Low. Bnk) < F2 (7260)
-0x1F1D4(4) (Upp. Bnk) < F2
+0xF283(6)/F1D4(4) (Low. Bnk) < F2 (7260)
+0x1F283(6)/1F1D4(4) (Upp. Bnk) < F2
 ;
-0xF1D5(4) (Low. Bnk) < D0 (6240)
-0x1F1D5(4) (Upp. Bnk) < D0
+0xF284(6)F1D5(4) (Low. Bnk) < D0 (6240)
+0x1F284(6)1F1D5(4) (Upp. Bnk) < D0
 ;
 Fan:
 0xC8F0(6)/C8FF(4) < AA (90 celsius, 1 speed)
