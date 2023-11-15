@@ -263,14 +263,14 @@ Preload Table (TCV):
 ;
 0x14287(6)/14288(4) < 0000000000000000000000000000000000000000000000000000000000000000
 ;
-AXES-TPS angle for boost start-up and rescale, (13.3333):
-0xCD7A(6)/CC7A(4) < 0009131d27313b454e58626c76808a93; 00161C22282E343A404C5864707C8894
+AXES-TPS angle for boost start-up and rescale, (13.7499):
+0xCD7A(6)/CC7A(4) < 0109131d27313b454e58626c76808a94
 ;
-TPS angle threshold for boost active, (13.3333):
-0xE8D4(6)/E7F6(4) < 2020202020202020
+TPS angle threshold for boost active, (13.7500):
+0xE8D4(6)/E7F6(4) < 2121212121212121
 ;
-TPS angle threshold for charge pressure increase, (13.3333)
-0xE9FC(6)/E94E(4) < 2020202020202020
+TPS angle threshold for charge pressure increase, (13.7500)
+0xE9FC(6)/E94E(4) < 2121212121212121
 ;
 TPS angle for WOT Detection (70):
 0x13B27(6)/13B28(4) < A8A8A8A8A8A8A8A8A8A8A8A8A8A8A8A8
